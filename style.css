@@ -1,0 +1,23 @@
+@media(max-width: 992px) {
+  .container {
+    width: 700px;
+  }
+}
+
+.container {
+  max-width:700px;
+  margin: 50px auto;
+  text-centre:
+}
+
+.banner {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+
+.subcon {
+background-color: rgb(30, 235, 246);
+
+}
